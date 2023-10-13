@@ -12,3 +12,9 @@ this is my rice of i3
 - mov-cli-git | a movie in terminal
 - gnome-keyring | this is needed so i can install the github app from the AUR
 - gnome-desktop
+
+
+## nvim 
+to install plugins i need to install "vim-plug"
+- telescope
+
