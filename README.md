@@ -10,3 +10,5 @@ this is my rice of i3
 - uxplay | its an airplay server
 - eww-x11 | didnt use it really
 - mov-cli-git | a movie in terminal
+- gnome-keyring | this is needed so i can install the github app from the AUR
+- gnome-desktop
