@@ -18,4 +18,6 @@ this is my rice of i3
 to install plugins i need to install "vim-plug"
 - telescope
 
-## testing
+## how to use the git cli 
+
+- to push changes made locally | https://zapier.com/blog/how-to-push-to-github/
