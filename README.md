@@ -22,6 +22,6 @@ to install plugins i need to install "vim-plug"
 
 - to push changes made locally | https://zapier.com/blog/how-to-push-to-github/
 
-### notes for my self
+## notes for my self
 the `u.sh` file is to update the repo without typing the commands each time . just run the command when you finish. iknow it not good but it works .
 
