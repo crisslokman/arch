@@ -11,8 +11,8 @@ this is my rice of i3
 - eww-x11 | didnt use it really
 - mov-cli-git | a movie in terminal
 - gnome-keyring | this is needed so i can install the github app from the AUR
-- gnome-desktop
-
+- github-desktop
+- git-cli | github terminal client to use the command `gh` on terminal  
 
 ## nvim 
 to install plugins i need to install "vim-plug"
