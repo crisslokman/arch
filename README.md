@@ -18,3 +18,4 @@ this is my rice of i3
 to install plugins i need to install "vim-plug"
 - telescope
 
+## testing
