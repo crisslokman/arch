@@ -207,8 +207,8 @@ bindsym $mod+r mode "resize"
 # it fails to get colors from Xresources.
 set_from_resource $fg i3wm.color0 #f0f0f0
 set_from_resource $fg1 i3wm.color1 #f0f0f0
-set_from_resource $bg i3wm.color5 #f0f0f0
-set_from_resource $bg1 i3wm.color7 #f0f0f0
+set_from_resource $bg i3wm.color2 #f0f0f0
+set_from_resource $bg1 i3wm.color8 #f0f0f0
 
 
 # class                 border  backgr. text indicator child_border
