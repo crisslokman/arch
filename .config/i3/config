@@ -220,14 +220,14 @@ client.unfocused        $bg     $bg1     $fg  $bg       $bg
 #client.background       $bg
 
 # i3status
-bar {
-    status_command i3status
-    colors {
-        background #bg
-        statusline #fg
-        separator #fg
-    }
-}
+#bar {
+#    status_command i3status
+#    colors {
+#        background #bg
+#        statusline #fg
+#        separator #fg
+#    }
+#}
 
 # PROTIP: You can also dynamically set dmenu's colors this way:
 bindsym $mod+d exec dmenu_run -nb "$fg" -nf "$bg" -sb "$bg" -sf "$fg"
