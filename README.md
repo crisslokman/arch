@@ -6,6 +6,7 @@ arch linux files
 this is my rice of i3
 
 # stuff i installed 
+- pywal \ wpgtk | to change colors schemes for both i3 and other apps
 - speedtest-cli
 - uxplay | its an airplay server
 - eww-x11 | didnt use it really

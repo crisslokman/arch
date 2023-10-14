@@ -10,16 +10,20 @@ alias c='clear'
 alias zathura='zathura-pywal'
 alias o='cd documents/obsidian/vault1'
 
-alias install='sudo pacman -S'
-alias install2='yay -S'
-alias update='sudo pacman -Syu'
-alias update2='yay -Syu'
+alias i='sudo pacman -S'
+alias i2='yay -S'
+alias up='sudo pacman -Syu'
+alias up2='yay -Syu'
 
-alias uninstall='sudo pacman -Rns' 
-alias uninstall2='yay -Rns'
+alias un='sudo pacman -Rns' 
+alias un2='yay -Rns'
 
 alias w='wal -i wallpaper'
+#alias w='wpg -s ~/wallpaper'
 alias wl='wal -i'
+alias wp='wpg -s '
+alias wd='wpg -s ~/Downloads'
+
 
 # If not running interactively, don't do anything
 [[ $- != *i* ]] && return
