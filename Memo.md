@@ -8,6 +8,6 @@ this is a file that i use to store some of what i learned or what i want to do a
 
 # IDEAS 
 
-- [x] how to 
+- [ ] how to create something that when i click on it a popup showsup with other bottons to click on them ?? 
 
 
