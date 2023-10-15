@@ -9,7 +9,8 @@ ls
 git add .
 git status 
 
-echo "commit type : "
-read commit
-git commit -m $commit
+#echo "commit type : "
+#read commit
+#git commit -m $commit
+git commit -m 'updated'
 git push
