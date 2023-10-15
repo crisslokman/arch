@@ -1,6 +1,7 @@
 # README 
 this is a file that i use to store some of what i learned or what i want to do about my linux machine or software
 
+[[README.md]]
 #
 
 > is there a way to use mega like the way to use github from the terminal just like im doing right now ??? 
@@ -10,4 +11,4 @@ this is a file that i use to store some of what i learned or what i want to do a
 
 - [ ] how to create something that when i click on it a popup showsup with other bottons to click on them ?? 
 
-
+- trying to install "Openssh" to try and ssh into my environment
