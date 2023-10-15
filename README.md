@@ -1,6 +1,6 @@
 # arch1 I3-Wm
 arch linux files 
-
+and some edits
 
 # Note
 this is my rice of i3
