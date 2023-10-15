@@ -15,3 +15,9 @@ this is a file that i use to store some of what i learned or what i want to do a
 - [ ] how to create something that when i click on it a popup showsup with other bottons to click on them ?? 
 
 - trying to install "Openssh" to try and ssh into my environment
+
+# Progress
+
+### 2023-10-25
+i was able to make freefilesync work properly without any problems yet and that was like this : 
+
