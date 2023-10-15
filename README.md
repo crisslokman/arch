@@ -1,5 +1,6 @@
-# arch1 I3-Wm
-arch linux files 
+# Intro
+
+arch linux  i3-wm files 
 > some edits to make arch linux work and at least a bit nicer 
 
 # Note
