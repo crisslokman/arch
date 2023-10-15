@@ -6,7 +6,7 @@ arch linux files
 this is my rice for some window managers like : **i3**
 
 # stuff i installed 
-- picom-ftlabs
+- picom-ftlab | https://aur.archlinux.org/packages/picom-ftlabs-git | https://github.com/FT-Labs/picom 
 - pywal \ wpgtk | to change colors schemes for both i3 and other apps
 - speedtest-cli
 - uxplay | its an airplay server
@@ -18,6 +18,7 @@ this is my rice for some window managers like : **i3**
 
 ## nvim 
 to install plugins i need to install "vim-plug"
+- vim-plug | https://github.com/junegunn/vim-plug
 - telescope
 
 ## how to use the git cli 
