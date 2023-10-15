@@ -1,7 +1,7 @@
 # README 
 this is a file that i use to store some of what i learned or what i want to do about my linux machine or software
 
-(README.md)[https://github.com/crisslokman/arch/Memo.md]
+[README.md](https://github.com/crisslokman/arch/Memo.md)
 
 #
 
