@@ -1,9 +1,9 @@
 # arch1 I3-Wm
 arch linux files 
-and some edits
+> some edits to make arch linux work and at least a bit nicer 
 
 # Note
-this is my rice of i3
+this is my rice for some window managers like : **i3**
 
 # stuff i installed 
 - pywal \ wpgtk | to change colors schemes for both i3 and other apps
