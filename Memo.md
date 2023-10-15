@@ -4,5 +4,5 @@ this is a file that i use to store some of what i learned or what i want to do a
 #
 
 > is there a way to use mega like the way to use github from the terminal just like im doing right now ??? 
-> [!help]
+
 > yes there is and its called "mega cmd" .
