@@ -48,8 +48,8 @@ echo "
 cd
 mkdir apps wallpaper
 
-cp -r /arch/.config/.  ~/.config
-cp -r /arch/apps/. ~/apps
+#cp -r /arch/.config/.  ~/.config
+#cp -r /arch/apps/. ~/apps
 cp .bashrc ~/
 cp .xinitrc ~/
 cp .fehbg ~/
