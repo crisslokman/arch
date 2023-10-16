@@ -19,6 +19,9 @@ this is my rice for some window managers like : **i3**
 ## i3-wm window manager
 just copy the config file to its place 
 
+using with it a script that makes i3 dynamic 
+> - https://github.com/olemartinorg/i3-alternating-layout 
+> > you could place the python file with i3 config file then change the directory inside the config file.
 
 ## nvim 
 to install plugins i need to install "vim-plug"
