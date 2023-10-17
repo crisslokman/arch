@@ -31,10 +31,12 @@ to install plugins i need to install "vim-plug"
 
 
 ## Browsers 
-i installed **Chromium** which i usually use but there is another fork that iss much faster : **Thorium browser**.
+i installed **Chromium** which i usually use but there is another fork that iss much faster : (**Thorium browser**)[https://thorium.rocks/
+].
+(google)[https://thorium.rocks/]
 
-its an appimage or you can find it in the **AUR** and for anyother operating system . 
-link : https://thorium.rocks/
+its an appimage or you can find it in the **AUR** , also any other operating system . 
+
 ## some cli apps to search the web
 
 1. googler
