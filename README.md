@@ -7,6 +7,7 @@ arch linux  i3-wm files
 this is my rice for some window managers like : **i3**
 
 # stuff i installed 
+
 - picom-ftlab | https://aur.archlinux.org/packages/picom-ftlabs-git | https://github.com/FT-Labs/picom 
 - pywal \ wpgtk \ lxappearance| to change colors schemes for both i3 and other apps
 - speedtest-cli
@@ -27,6 +28,12 @@ using with it a script that makes i3 dynamic
 to install plugins i need to install "vim-plug"
 - vim-plug | https://github.com/junegunn/vim-plug
 - telescope
+
+## some cli apps to search the web
+
+1. googler
+2. ddgr
+3. surfraw 
 
 ## how to use the git cli 
 
