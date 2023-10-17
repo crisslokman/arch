@@ -4,12 +4,8 @@
 
 pfetch
 (cat ~/.cache/wal/sequences &)
-alias v='nvim'
-alias cc='cd .config'
-alias c='clear'
-alias zathura='zathura-pywal'
-alias o='cd documents/obsidian/vault1'
 
+# Apps and scripts
 alias i='sudo pacman -S'
 alias i2='yay -S'
 alias up='sudo pacman -Syu'
@@ -23,6 +19,17 @@ alias w='wal -i wallpaper'
 alias wl='wal -i'
 alias wp='wpg -s '
 alias wd='wpg -s ~/Downloads'
+
+alias zathura='zathura-pywal'
+alias v='nvim'
+
+# files and folders
+alias o='cd documents/obsidian/vault1'
+alias cc='cd .config'
+
+# other commands
+alias c='clear'
+
 
 
 # If not running interactively, don't do anything
