@@ -28,10 +28,9 @@ i think i found a program to acces the desktop environment wirelessly "nomachine
 	- https://www.nomachine.com/ 
 	- https://wiki.archlinux.org/title/NoMachine
 	
-
+>> does this program has alternatives 
 
 # Progress
 
 ### 2023-10-25
 i was able to make freefilesync work properly without any problems yet and that was like this : 
-
