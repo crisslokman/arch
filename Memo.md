@@ -18,8 +18,12 @@ this is a file that i use to store some of what i learned or what i want to do a
 > > and Xmonad . written in haskel .
 > > > some say that the best are : awesome , qtile , xmonad.
 
-1. i think i found a program to acces the desktop environment wirelessly AUR "nomachine" 
-	- ill try it.
+1. i think i found a program to acces the desktop environment wirelessly AUR "nomachine"  
+> links : 
+	- https://aur.archlinux.org/packages/nomachine | 
+	- https://www.nomachine.com/ 
+	- https://wiki.archlinux.org/title/NoMachine
+	ill try it.
 
 
 # Progress
