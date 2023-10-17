@@ -29,6 +29,10 @@ to install plugins i need to install "vim-plug"
 - vim-plug | https://github.com/junegunn/vim-plug
 - telescope
 
+
+## Browsers 
+i installed **Chromium** which i usually use but there is another fork that iss much faster : **Thorium browser**
+
 ## some cli apps to search the web
 
 1. googler
