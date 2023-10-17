@@ -5,7 +5,8 @@
 pfetch
 (cat ~/.cache/wal/sequences &)
 
-# Apps and scripts
+# Aliases
+## Apps and scripts
 alias i='sudo pacman -S'
 alias i2='yay -S'
 alias up='sudo pacman -Syu'
@@ -23,11 +24,11 @@ alias wd='wpg -s ~/Downloads'
 alias zathura='zathura-pywal'
 alias v='nvim'
 
-# files and folders
+## files and folders
 alias o='cd documents/obsidian/vault1'
 alias cc='cd .config'
 
-# other commands
+## other commands
 alias c='clear'
 
 
