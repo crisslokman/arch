@@ -18,7 +18,9 @@ this is a file that i use to store some of what i learned or what i want to do a
 > > and Xmonad . written in haskel .
 > > > some say that the best are : awesome , qtile , xmonad.
 
-1. i think i found a program to acces the desktop environment wirelessly "nomachine" / it needs a desktop environment or window manager runnging so it can run . 
+## stuff to name later
+### Nomachine 
+i think i found a program to acces the desktop environment wirelessly "nomachine" / it needs a desktop environment or window manager runnging so it can run . 
 > i dont know if it will run properly but at least there is something .
 
 > links : 
