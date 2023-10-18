@@ -29,6 +29,11 @@ to install plugins i need to install "vim-plug"
 - vim-plug | https://github.com/junegunn/vim-plug
 - telescope
 
+## rofi 
+
+A huge collection of [Rofi](https://github.com/davatorium/rofi) based custom Applets, Launchers & Powermenus.
+https://github.com/adi1090x/rofi
+
 
 ## Browsers 
 i installed **Chromium** which i usually use but there is another fork that iss much faster : **[Thorium_browser](https://thorium.rocks/)** .
