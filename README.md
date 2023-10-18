@@ -23,7 +23,7 @@ just copy the config file to its place
 using with it a script that makes i3 dynamic 
 > - https://github.com/olemartinorg/i3-alternating-layout 
 > > you could place the python file with i3 config file then change the directory inside the config file.
-
+- **Note** : just to know that drun command mod+d is still enabled . 
 ## nvim 
 to install plugins i need to install "vim-plug"
 - vim-plug | https://github.com/junegunn/vim-plug
