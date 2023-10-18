@@ -12,8 +12,9 @@ this is a file that i use to store some of what i learned or what i want to do a
 
 - [ ] how to create something that when i click on it a popup showsup with other bottons to click on them ?? 
 
-1. trying to install "Openssh" to try and ssh into my environment
-2. trying to install some of other window managers such as "QTILE" "dwm" rather then the one is use "i3 wm" 
+## trying to install "Openssh" to try and ssh into my environment
+
+## trying to install some of other window managers such as "QTILE" "dwm" rather then the one is use "i3 wm" 
 > cause dwm is written `C` and configurable in it as well . and qtile is written in `python` .
 > > and Xmonad . written in haskel .
 > > > some say that the best are : awesome , qtile , xmonad.
