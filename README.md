@@ -32,10 +32,14 @@ to install plugins i need to install "vim-plug"
 - telescope
 
 ## rofi 
-
 A huge collection of [Rofi](https://github.com/davatorium/rofi) based custom Applets, Launchers & Powermenus.
 https://github.com/adi1090x/rofi
 
+## fzf
+i added this line to the bashrc file or i can , add this to a new script file. this script lets me open any file that i searched for in neovim . 
+```
+filepath=$(fzf); nvim $filepath
+```
 
 ## Browsers 
 i installed **Chromium** which i usually use but there is another fork that iss much faster : **[Thorium_browser](https://thorium.rocks/)** .
