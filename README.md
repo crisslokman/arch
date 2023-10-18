@@ -17,6 +17,8 @@ this is my rice for some window managers like : **i3**
 - gnome-keyring | this is needed so i can install the github app from the AUR
 - github-desktop
 - git-cli | github terminal client to use the command `gh` on terminal  
+- fzf 
+
 ## i3-wm window manager
 just copy the config file to its place 
 
