@@ -12,12 +12,13 @@ this is a file that i use to store some of what i learned or what i want to do a
 
 - [ ] how to create something that when i click on it a popup showsup with other bottons to click on them ?? 
 
-## trying to install "Openssh" to try and ssh into my environment
+## 
+1. trying to install "Openssh" to try and ssh into my environment
+2. trying to install some of other window managers such as "QTILE" "dwm" rather then the one is use "i3 wm".
 
-## trying to install some of other window managers such as "QTILE" "dwm" rather then the one is use "i3 wm" 
 > cause dwm is written `C` and configurable in it as well . and qtile is written in `python` .
-> > and Xmonad . written in haskel .
-> > > some say that the best are : awesome , qtile , xmonad.
+> and Xmonad . written in haskel .
+> some say that the best are : awesome , qtile , xmonad.
 
 3. making a new rofi theme so i can click the arch logo in polybar and run a theme that doesnot look like the one from MOD+P .
 i will be using the rofi theme collection as starting point to learn how to do it.
