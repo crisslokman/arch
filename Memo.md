@@ -22,7 +22,10 @@ this is a file that i use to store some of what i learned or what i want to do a
 
 3. making a new rofi theme so i can click the arch logo in polybar and run a theme that doesnot look like the one from MOD+P .
 i will be using the rofi theme collection as starting point to learn how to do it.
-    
+
+**Idea** : 
+the arch botton in polybar can run anycommand , so if i can  program a command that i really need or at least get a list of commands that i want.
+
 
 
 ## stuff to name later
