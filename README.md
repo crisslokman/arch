@@ -40,6 +40,10 @@ i added this line to the bashrc file or i can , add this to a new script file. t
 ```
 filepath=$(fzf); nvim $filepath
 ```
+and if i want to search for hidden files i use this `find . | fzf ` i pipe the first command into the second which results in this : 
+```
+filepath=$(find . | fzf); nvim $filepath
+```
 
 ## Browsers 
 i installed **Chromium** which i usually use but there is another fork that iss much faster : **[Thorium_browser](https://thorium.rocks/)** .
