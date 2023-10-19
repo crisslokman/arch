@@ -66,3 +66,4 @@ the `u.sh` file is to update the repo without typing the commands each time . ju
 > you can add it as an alias in bashrc file as followes : 
 `alias gu='cd git/arch && ./u.sh && cd' 
 
+> i added some bashrc aliases to set a color scheme without the wallpaper `wpg -s ~/wallpaper -n` .
