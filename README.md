@@ -35,6 +35,9 @@ to install plugins i need to install "vim-plug"
 A huge collection of [Rofi](https://github.com/davatorium/rofi) based custom Applets, Launchers & Powermenus.
 https://github.com/adi1090x/rofi
 
+i can adjust the position of the bar by editing the rasi config file of each theme. 
+> i can add `x-offset= 24px` and `y-offset=  13px` like the polybar.
+
 ## fzf
 i added this line to the bashrc file or i can , add this to a new script file. this script lets me open any file that i searched for in neovim . 
 ```
