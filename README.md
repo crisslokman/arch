@@ -61,6 +61,12 @@ its an appimage or you can find it in the **AUR** , also any other operating sys
 
 - to push changes made locally | https://zapier.com/blog/how-to-push-to-github/
 
+
+## x11vnc 
+its a good program if you ever want to acces pc remotly and see the screen . not only the terminal . like an SSH connection.
+
+
+
 ## notes for my self
 the `u.sh` file is to update the repo without typing the commands each time . just run the command when you finish. iknow it not good but it works . 
 > you can add it as an alias in bashrc file as followes : 
