@@ -24,7 +24,7 @@ this is a file that i use to store some of what i learned or what i want to do a
 i will be using the rofi theme collection as starting point to learn how to do it.
 
 
-4. i installed `tigervnc-server` remember to remove it .
+
 
 **Idea** : 
 the arch botton in polybar can run anycommand , so if i can  program a command that i really need or at least get a list of commands that i want.

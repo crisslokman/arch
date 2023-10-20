@@ -2,7 +2,7 @@ configuration {
  modes: "window,drun,run,ssh";
   }
 
-@theme "/home/lok/.config/rofi/themes/config3.rasi"
+@theme "/home/lok/.config/rofi/themes/lok.rasi"
 
 /* Dark theme. */
 @import "~/.cache/wal/colors-rofi-dark"
