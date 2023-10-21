@@ -20,7 +20,7 @@ echo "
 ########## Installation                                             ##############
 #######################################################################################
 "
-sudo pacman -S i3-wm xorg-server xorg-xinit neofetch neovim nnn python-pywal rofi feh polybar ttf-hack-nerd alacritty nemo chromium
+sudo pacman -S i3-wm xorg-server xorg-xinit neofetch neovim nnn python-pywal rofi feh polybar ttf-hack-nerd alacritty nemo chromium fzf
 sudo pacman -S curl
 echo "
 ###################################################################################################
