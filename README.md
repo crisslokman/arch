@@ -16,8 +16,8 @@ this is my rice for some window managers like : **i3**
 - eww-x11 | didnt use it really
 - mov-cli-git | a movie in terminal
 - gnome-keyring | this is needed so i can install the github app from the AUR
-- github-desktop
-- git-cli | github terminal client to use the command `gh` on terminal  
+- github-desktop | github terminal client to use the command `gh` on terminal
+- git-cli |  which is `git` command
 - fzf 
 
 ## i3-wm window manager
