@@ -60,7 +60,7 @@ chmod +x ~/.config/polybar/launch.sh
 chmod +x ~/.fehbg
 
 cd wallpaper
-https://w.wallhaven.cc/full/kx/wallhaven-kxj3l1.jpg
+curl -o https://w.wallhaven.cc/full/kx/wallhaven-kxj3l1.jpg
 cd
 wal -i wallpaper
 cd
