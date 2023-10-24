@@ -21,7 +21,7 @@ echo "
 #######################################################################################
 "
 sudo pacman -S i3-wm xorg-server xorg-xinit neofetch neovim nnn python-pywal rofi feh polybar ttf-hack-nerd alacritty nemo chromium fzf
-sudo pacman -S curl
+sudo pacman -S curl python-wheel
 echo "
 ###################################################################################################
 ########## instaling yay | git base devel
