@@ -60,15 +60,20 @@ chmod +x ~/.config/polybar/launch.sh
 chmod +x ~/.fehbg
 
 cd wallpaper
-curl -O https://w.wallhaven.cc/full/9d/wallhaven-9d9111.jpg
+https://w.wallhaven.cc/full/kx/wallhaven-kxj3l1.jpg
 cd
 wal -i wallpaper
+cd
+wpg -s ~/wallpaper
 
 echo " 
 ################################################################
 ################    Done #######################################
 ################################################################
 ################################################################
+
+
+
 ######## Now Copy files from the config folder in arch /arch/.config to ~/.config 
 
 " 
