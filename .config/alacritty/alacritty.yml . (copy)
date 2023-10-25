@@ -1,0 +1,33 @@
+font:
+  size: 16.0
+
+import:
+  - ~/.cache/wal/colors-alacritty.yml
+
+# BEGIN ACE
+colors:
+  primary:
+    background: '#091234'
+    foreground: '#9ad1dc'
+  cursor:
+    text:       '#091234'
+    cursor:     '#9ad1dc'
+  normal:
+    black:      '#091234'
+    red:        '#2D4D8E'
+    green:      '#2067AD'
+    yellow:     '#5A5F92'
+    blue:       '#1A7AC3'
+    magenta:    '#956F91'
+    cyan:       '#1C9ACF'
+    white:      '#9ad1dc'
+  bright:
+    black:      '#6b929a'
+    red:        '#2D4D8E'
+    green:      '#2067AD'
+    yellow:     '#5A5F92'
+    blue:       '#1A7AC3'
+    magenta:    '#956F91'
+    cyan:       '#1C9ACF'
+    white:      '#9ad1dc'
+# END ACE
