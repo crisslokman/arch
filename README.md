@@ -19,7 +19,8 @@ this is my rice for some window managers like : **i3**
 - github-desktop | github terminal client to use the command `gh` on terminal
 - git-cli |  which is `git` command
 - fzf 
-- Synth Shell
+- Synth Shell | https://github.com/andresgongora/synth-shell-prompt
+
 
 
 ## i3-wm window manager
