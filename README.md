@@ -19,6 +19,8 @@ this is my rice for some window managers like : **i3**
 - github-desktop | github terminal client to use the command `gh` on terminal
 - git-cli |  which is `git` command
 - fzf 
+- Synth Shell
+
 
 ## i3-wm window manager
 just copy the config file to its place 
