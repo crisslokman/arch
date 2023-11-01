@@ -14,8 +14,8 @@ this is a file that i use to store some of what i learned or what i want to do a
 - [ ] create a script to put in github so it can copy on it self and make files excutable
 ## 
 1. trying to install "Openssh" to try and ssh into my environment
-2. trying to install some of other window managers such as "QTILE" "dwm" rather then the one is use "i3 wm".
 
+2. trying to install some of other window managers such as "QTILE" "dwm" rather then the one is use "i3 wm".
 > cause dwm is written `C` and configurable in it as well . and qtile is written in `python` .
 > and Xmonad . written in haskel .
 > some say that the best are : awesome , qtile , xmonad.
