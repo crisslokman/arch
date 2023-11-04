@@ -80,3 +80,12 @@ the `u.sh` file is to update the repo without typing the commands each time . ju
 `alias gu='cd git/arch && ./u.sh && cd' 
 
 > i added some bashrc aliases to set a color scheme without the wallpaper `wpg -s ~/wallpaper -n` .
+
+
+
+## Windows 
+i just found that there is a window manager for windows that just looks like i3 or any other wm on linux : 
+- [LGUG2Z/komorebi: A tiling window manager for Windows 🇵🇸](https://github.com/LGUG2Z/komorebi)
+and this is a bar to use with it :
+- [denBot/yasb: A highly configurable cross-platform (Windows) status bar written in Python.](https://github.com/DenBot/yasb)
+
