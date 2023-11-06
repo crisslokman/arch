@@ -20,7 +20,6 @@ this is my rice for some window managers like : **i3**
 - git-cli |  which is `git` command
 - fzf 
 - Synth Shell | https://github.com/andresgongora/synth-shell-prompt
-- browsh | i think this is a somewhat good cli browser
 - links \ linx \ w3m | cli based browsers 
 
 ## i3-wm window manager
