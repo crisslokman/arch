@@ -23,6 +23,8 @@ this is my rice for some window managers like : **i3**
 - links \ linx \ w3m | cli based browsers 
 - cava for polybar : https://github.com/ray-pH/polybar-cava | 
 - evillimiter (https://github.com/bitbrute/evillimiter) | like **selfishnet** on windows or **netcut**
+- megacmd | mega terminal client
+
 
 ## i3-wm window manager
 just copy the config file to its place 
