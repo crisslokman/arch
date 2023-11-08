@@ -46,9 +46,21 @@ i think i found a program to acces the desktop environment wirelessly "nomachine
 
 # mega dummy account 
 
+---------------
+===============
+---------------
+
 mail : 1235@mozej.com
 pass : 1235@mozej.com
 recovery key : Vn5AkKCHkkcEtrCCt26R3g
+
+-------------------------------
+===============================
+-------------------------------
+i was able to make it sync  automatically using the command `mega-sync` or `mega-cmd` then `sync` .
+it works like a charm but you need to exlude the hidden files first.
+
+
 
 # Progress
 ### 2023-10-25
