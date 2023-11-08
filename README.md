@@ -24,6 +24,7 @@ this is my rice for some window managers like : **i3**
 - cava for polybar : https://github.com/ray-pH/polybar-cava | 
 - evillimiter (https://github.com/bitbrute/evillimiter) | like **selfishnet** on windows or **netcut**
 - megacmd | mega terminal client
+- lyrics-in-terminal | its in the AUR (https://github.com/Jugran/lyrics-in-terminal) .
 
 
 ## i3-wm window manager
