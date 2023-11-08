@@ -21,7 +21,8 @@ this is my rice for some window managers like : **i3**
 - fzf 
 - Synth Shell | https://github.com/andresgongora/synth-shell-prompt
 - links \ linx \ w3m | cli based browsers 
-- cava for polybar : https://github.com/ray-pH/polybar-cava |  
+- cava for polybar : https://github.com/ray-pH/polybar-cava | 
+- evillimiter (https://github.com/bitbrute/evillimiter) | like **selfishnet** on windows or **netcut**
 
 ## i3-wm window manager
 just copy the config file to its place 
