@@ -44,6 +44,11 @@ i think i found a program to acces the desktop environment wirelessly "nomachine
 >> does this program has alternatives 
 
 
+# mega dummy account 
+
+mail : 1235@mozej.com
+pass : 1235@mozej.com
+recovery key : Vn5AkKCHkkcEtrCCt26R3g
 
 # Progress
 ### 2023-10-25
