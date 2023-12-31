@@ -10,7 +10,9 @@ this is my rice for some window managers like : **i3**
 
 - compositor : picom / comfy 
   > picom-ftlab | https://aur.archlinux.org/packages/picom-ftlabs-git | https://github.com/FT-Labs/picom
+  > 
   > picom allusive |
+  > 
   > comfy | https://github.com/allusive-dev/compfy
 - pywal \ 
 - wpgtk \ lxappearance| to change colors schemes for both i3 and other apps
