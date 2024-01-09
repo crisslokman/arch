@@ -102,3 +102,6 @@ i just found that there is a window manager for windows that just looks like i3 
 and this is a bar to use with it :
 - [denBot/yasb: A highly configurable cross-platform (Windows) status bar written in Python.](https://github.com/DenBot/yasb)
 
+another windows tiling manager : 
+- https://workspacer.org/
+
