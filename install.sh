@@ -62,6 +62,7 @@ chmod +x ~/.fehbg
 cd wallpaper
 curl -O https://w.wallhaven.cc/full/kx/wallhaven-kxj3l1.jpg
 # https://wallhaven.cc/w/gpvpxe
+# https://wallhaven.cc/w/3lgxx3
 ## https://w.wallhaven.cc/full/gp/wallhaven-gpvpxe.png
 cd
 wal -i wallpaper
