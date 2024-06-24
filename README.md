@@ -105,4 +105,10 @@ and this is a bar to use with it :
 another windows tiling manager : 
 - https://workspacer.org/
 - https://github.com/glzr-io/glazewm
+## Other Linux Distros 
 
+### usb portable : 
+- slax
+- minios https://minios.dev/en/
+- mxlinux
+- antix os
