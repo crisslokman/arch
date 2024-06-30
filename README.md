@@ -112,3 +112,6 @@ another windows tiling manager :
 - minios https://minios.dev/en/
 - mxlinux
 - antix os
+---- 
+funny enogh i installed arch linux in an usb with persistance wow 
+
