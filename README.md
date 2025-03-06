@@ -14,7 +14,9 @@ this is my rice for some window managers like : **i3**
   > picom allusive |
   > 
   > comfy | https://github.com/allusive-dev/compfy
-- pywal \ 
+- pywal \
+> - wal-choose https://github.com/eylles
+> - pywal16 
 - wpgtk \ lxappearance| to change colors schemes for both i3 and other apps
 - speedtest-cli
 - uxplay | its an airplay server
