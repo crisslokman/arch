@@ -33,6 +33,7 @@ this is my rice for some window managers like : **i3**
 - megacmd | mega terminal client
 - lyrics-in-terminal | its in the AUR (https://github.com/Jugran/lyrics-in-terminal) .
 - jgmenu
+- gowall >>  https://github.com/Achno/gowall
 
 
 ## i3-wm window manager
